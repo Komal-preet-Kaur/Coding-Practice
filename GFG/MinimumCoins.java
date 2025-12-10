@@ -1,3 +1,4 @@
+//minimum number of coins
 class Solution {
     public int findMin(int n) {
         // code here
